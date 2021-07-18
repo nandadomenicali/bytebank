@@ -7,6 +7,8 @@ import { Component, OnInit } from '@angular/core';
 })
 export class ExtratoComponent implements OnInit {
 
+  transferencia: any;
+
   constructor() { }
 
   ngOnInit(): void {
